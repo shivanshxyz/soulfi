@@ -1,10 +1,18 @@
 
 # SoulFi
 
+One stop Dashboard where people can see all their tokens and NFTs that they hold in the Solana ecosystem.
+
 
 Responsive                     |  Desktop
 :-------------------------:|:-------------------------:
 ![](scaffold-mobile.png)  |  ![](scaffold-desktop.png)
+
+
+![](1.jpg)
+![](2.jpg)
+![](3.jpg)
+![](4.jpg)
 
 ## Getting Started
 
